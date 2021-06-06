@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    border: 6px solid royalblue;
+    background-color: royalblue;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+}
+
+nav{
+    padding:40px;
+}
+
+nav a{
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+    border: 8px solid blue;
+    background-color: blue;
+    border-radius: 8px;
+}
+nav a:hover{
+    color: blue;
+    background-color: white;
+}
+h1{
+    color: green;
+    box-shadow: 2px 5px 7px 8px green;
+}
+p{
+    font-size: 20px;
+}
+.social:hover{
+    box-shadow: 1px 2px 3px 4px black;
+    transition: 1s linear;
+}
+.link-text{
+    text-decoration: none;
+    text-shadow: 1px 2px 8px blueviolet;
+    color: navy;
+    font-size: 26px;
+}
